@@ -20,4 +20,3 @@ let paragrafo = "Meu Componente"
     )
 }
 
-
